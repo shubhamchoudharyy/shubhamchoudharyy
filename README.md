@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchoudharyy" alt="shubhamchoudharyy" /></a> </p>
 
-- 🔭 I’m currently working on [SocialLinkhub](https://github.com/shubhamchoudharyy/ScholarLinkHub)
+- 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudharyy/CampusSeek)
 
 - 🌱 I’m currently working on a the project **Campus Seek**
 
