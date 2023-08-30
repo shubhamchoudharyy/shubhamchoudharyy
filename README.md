@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudharyy/CampusSeek)
 
-- 🌱 I’m currently working on a the project **Campus Seek**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamchoudharyy?tab=repositories](https://github.com/shubhamchoudharyy?tab=repositories)
 
