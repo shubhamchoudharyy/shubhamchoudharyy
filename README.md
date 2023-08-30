@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SocialLinkhub](https://github.com/shubhamchoudharyy/ScholarLinkHub)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently working on a the project **Campus Seek**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamchoudharyy?tab=repositories](https://github.com/shubhamchoudharyy?tab=repositories)
 
