@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudharyy/CampusSeek)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamchoudharyy?tab=repositories](https://github.com/shubhamchoudharyy?tab=repositories)
 
