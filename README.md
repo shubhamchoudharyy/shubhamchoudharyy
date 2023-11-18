@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamchoudhary0071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b2Ma-m0wewEg2UaCbRn3cnqQw4boaJjr/view?usp=drivesdk](https://drive.google.com/file/d/1b2Ma-m0wewEg2UaCbRn3cnqQw4boaJjr/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b2Ma-m0wewEg2UaCbRn3cnqQw4boaJjr/view?usp=drivesdk](https://drive.google.com/file/d/1uFqXmu_3acuzpp2G7fQ2oMJSNCeO1iss/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
